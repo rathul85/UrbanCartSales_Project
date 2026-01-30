@@ -77,6 +77,8 @@ The analysis is structured into five key pillars to provide actionable insights 
 ![Total Orders](./image/p12.png)
 ![Total Orders](./image/p13.png)
 ![Total Orders](./image/p14.png)
+![Total Orders](./image/p16.png)
+![Total Orders](./image/p17.png)
 
 
 
