@@ -11,4 +11,5 @@ As a **Data Analyst**, my responsibility is to:
 - Optimize inventory and payment methods.
 ## 🏗️ Database Architecture (ER Diagram)
 Below is the logical structure of the UrbanCart database. It includes dimension tables (Customers, Products) and fact tables (Orders, OrderItems, Payments).
+![ER Diagram](image/er_diagram.png)
 
