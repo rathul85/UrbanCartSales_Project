@@ -83,6 +83,9 @@ The analysis is structured into five key pillars to provide actionable insights 
 ![](./image/p19.png)
 ![](./image/p20.png)
 ![](./image/p21.png)
+![s](./image/p23.png)
+![](./image/p24.png)
+---
 
 ## 🏁 Final Conclusion & Strategic Recommendations
 
@@ -119,8 +122,7 @@ Based on the comprehensive analysis of UrbanCart's transactional data, the follo
 * **Nagad** and **Credit Cards** are the preferred methods for high-value transactions.
 * **Debit Card** transactions involve the highest number of items per order.
 * The **Miniket Rice & Power Bank** combo is the most effective bundle for maximizing revenue.
-![s](./image/p23.png)
-![](./image/p24.png)
+
 
 
 
